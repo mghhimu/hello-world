@@ -1,3 +1,3 @@
 # hello-world
-get to know vcs
-and have hands on it
+know git
+and have dirty hands on it
